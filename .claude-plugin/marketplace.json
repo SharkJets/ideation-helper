@@ -1,0 +1,14 @@
+{
+  "name": "ideation-helper",
+  "owner": {
+    "name": "SharkJets"
+  },
+  "plugins": [
+    {
+      "name": "ideation-helper",
+      "source": ".",
+      "description": "Transform brain dumps into structured project plans: briefs, phased plans, and action steps — designed for everyone, not just developers",
+      "version": "0.7.0"
+    }
+  ]
+}
