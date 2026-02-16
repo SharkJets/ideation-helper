@@ -1,0 +1,17 @@
+{
+  "name": "ideation-helper",
+  "version": "0.7.0",
+  "description": "Transform brain dumps into structured project plans: briefs, phased plans, and action steps — designed for everyone, not just developers",
+  "author": {
+    "name": "Nick Nisi",
+    "email": "nick@nisi.org"
+  },
+  "keywords": [
+    "ideation",
+    "brain-dump",
+    "planning",
+    "project-planning",
+    "action-steps",
+    "non-technical"
+  ]
+}
